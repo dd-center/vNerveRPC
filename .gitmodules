@@ -1,0 +1,3 @@
+[submodule "vNerveTransmitter"]
+	path = vNerveTransmitter
+	url = https://github.com/dd-center/vNerveTransmitter
